@@ -1,5 +1,5 @@
 # Title of your blog; shows in the header
-name: "Ord"
+name: "Off-topic"
 
 # Description of your content (will only be used on Google Search)
 description: "Publikt klotterplank"
@@ -8,7 +8,7 @@ description: "Publikt klotterplank"
 author: "Pär Englund"
 
 url: "http://parpersson.github.io"
-baseurl: "/ord"
+baseurl: "/off-topic"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "Engineer at work, photographer at heart."
